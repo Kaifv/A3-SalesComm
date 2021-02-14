@@ -260,7 +260,7 @@
        77 ws-100           pic 999     value 100.
        77 ws-300-hundred   pic 9(6)    value 300000.
        77 ws-one           pic 9       value 1.
-       77 ws-15-quarter    pic 99v99   value 15.25
+       77 ws-15-quarter    pic 99v99   value 15.25.
        
 
 
